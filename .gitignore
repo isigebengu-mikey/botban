@@ -1,0 +1,4 @@
+/.vscode
+/bans.db-shm
+/bans.db-wal
+/__pycache__
